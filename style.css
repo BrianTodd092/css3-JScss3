@@ -1,0 +1,33 @@
+
+
+
+
+body {
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+#sendmail {
+            position: relative;
+            display: block;
+            margin-top:15%;
+            margin-left: auto;
+            margin-right: auto;
+            color: white;
+            width: 200px;
+}
+
+::placeholder {
+
+               color: red;
+               opacity:0.5;
+}
+
+
+input,textarea {
+
+          color:blue;
+
+}
